@@ -2,8 +2,6 @@
 
 ## Purpose
 
-Purpose 
-
 The purpose of this assignment is to demonstrate knowledge of the basic syntax of a SQL query. Specifically, you will be asked to demonstrate:
 
 - use of the SELECT clause to specify which fields you want to query
@@ -17,7 +15,7 @@ These are the basic commands that will make up your foundational knowledge of SQ
 
 ## Tasks
 
-#### Question: Design the following queries, using the lyrics.sql schema:
+# Question: Design the following queries, using the lyrics.sql schema:
 
 - List the Title, UPC and Genre of all CD titles. (Titles table)
 
