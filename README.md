@@ -10,18 +10,18 @@ The purpose of this assignment is to demonstrate knowledge of the basic syntax o
 
 - use of the WHERE clause to specify which conditions the query will use to query rows in a table.
 
-These are the basic commands that will make up your foundational knowledge of SQL. There are other clauses besides SELECT, FROM, and WHERE, but by building up your knowledge of these basic clauses, you will have constructed a foundation upon which to base your knowledge of SQL.
+These basic commands will make up your foundational knowledge of SQL. There are other clauses besides SELECT, FROM, and WHERE, but by building up your knowledge of these basic clauses, you will have constructed a foundation upon which to base your knowledge of SQL.
 
 
-## Tasks
+# Tasks
 
-# Question: Design the following queries, using the lyrics.sql schema:
+## Question: Design the following queries using the lyrics.sql schema:
 
-- List the Title, UPC and Genre of all CD titles. (Titles table)
+- List the Title, UPC, and Genre of all CD titles. (Titles table)
 
 - List all of the information of CD(s) produced by the artist whose ArtistID is 2. (Titles table)
 
-- List the First Name, Last Name, HomePhone and Email address of all members. (Members table)
+- List the First Name, Last Name, HomePhone, and Email address of all members. (Members table)
 
 - List the Member ID of all male members. (Members table)
 
