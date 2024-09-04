@@ -13,7 +13,7 @@ The purpose of this assignment is to demonstrate knowledge of the basic syntax o
 These basic commands will make up your foundational knowledge of SQL. There are other clauses besides SELECT, FROM, and WHERE, but by building up your knowledge of these basic clauses, you will have constructed a foundation upon which to base your knowledge of SQL.
 
 
-# Tasks
+## Tasks
 
 ## Question: Design the following queries using the lyrics.sql schema:
 
