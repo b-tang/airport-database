@@ -1,4 +1,5 @@
 # Airport Database 
+The **Airport Database** project is a comprehensive database management system created to handle data for airports, flights, airlines, and passengers. Built using SQL, this system is designed to efficiently manage complex airport operations by organizing data into structured tables and establishing relationships between them. 
 
 ## Purpose
 
@@ -12,7 +13,7 @@ The purpose of this project is to demonstrate foundational knowledge of SQL quer
 
 ## Tasks
 
-Below are the SQL queries designed based on the `lyrics.sql` schema:
+### Below are the SQL queries designed based on the `lyrics.sql` schema:
 
 1. **List the Title, UPC, and Genre of all CD titles.**
    - **Table**: Titles
