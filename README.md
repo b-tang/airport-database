@@ -2,19 +2,15 @@
 The **Airport Database** project is a comprehensive database management system created to handle data for airports, flights, airlines, and passengers. Built using SQL, this system is designed to efficiently manage complex airport operations by organizing data into structured tables and establishing relationships between them. 
 
 ## Purpose
-
 The purpose of this project is to demonstrate foundational knowledge of SQL queries. This project focuses on using the basic SQL clauses: `SELECT`, `FROM`, and `WHERE`. By mastering these clauses, you will be able to retrieve specific data from a database and build a solid understanding of SQL.
 
 ## SQL Clauses Covered
-
 - **SELECT**: Used to specify which fields you want to retrieve.
 - **FROM**: Used to specify the tables from which you want to retrieve the data.
 - **WHERE**: Used to filter the rows based on certain conditions.
 
 ## Tasks
-
 ### Below are the SQL queries designed based on the `lyrics.sql` schema:
-
 1. **List the Title, UPC, and Genre of all CD titles.**
    - **Table**: Titles
 
@@ -34,11 +30,11 @@ The purpose of this project is to demonstrate foundational knowledge of SQL quer
    - **Table**: Members
 
 ## How to Run
-
 1. Load the `lyrics.sql` schema into your SQL environment.
 2. Execute the SQL queries based on the tasks listed above.
 3. Verify the output by comparing it with the expected results.
 
 ## Conclusion
-
-This project serves as an introductory exercise in SQL query formulation. By completing the tasks, you will have a better understanding of how to extract specific data from a database using basic SQL commands.
+This project serves as an introductory exercise in SQL query formulation. By completing the tasks
+you will have a better understanding of how to extract specific data from a database using basic
+SQL commands.
